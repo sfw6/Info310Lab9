@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Lab 9: Threat Diagram",
+    "owner": "Sophie W.",
+    "description": "Basic, dummy web application's threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
